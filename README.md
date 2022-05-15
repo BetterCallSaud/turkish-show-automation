@@ -34,6 +34,8 @@ You should have `selenium` installed as a PyPI Package. To do this, run:
 
 ```pip install selenium```
 
+To run the script, you need to give arguments as follows: `python abdulhamid.py <episode_number> <part_number>`.
+
 Also, this script MAY NOT WORK, as it is the original version from 2 years ago. 
 
 You can `open-source` the shit out of this if you want!
